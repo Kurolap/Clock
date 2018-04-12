@@ -1,3 +1,8 @@
 body {
 	text-align: center;
 }
+#digital {
+	border: 10px solid #000;
+	width: 20%;
+	margin: 10px auto; 
+}
