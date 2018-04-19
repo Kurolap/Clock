@@ -18,4 +18,99 @@ body {
 	height: 500px;
 	margin: 10px auto; 
 	font-size: 30px;
+	border-radius: 500px;
+	position: relative;
+}
+#center {
+	background: #000;
+	width: 20px;
+	height: 20px;
+	border-radius: 20px;
+	margin: 0px;
+	position: absolute;
+	top: 240px;
+	left: 240px;
+}
+#arrow {
+	width: 10px;
+	height: 500px;
+	position: absolute;
+	top: 0px;
+	left: 245px;
+	transform: rotate(0deg);
+}
+#invisible0 {
+	background: green;
+	width: 10px;
+	height: 60px;
+}
+#visible {
+	background: red;	
+	width: 10px;
+	height: 190px;
+}
+#invisible {
+	width: 10px;
+	height: 240px;
+	background: blue;
+}
+#one {
+	position: absolute;
+	top: 40px;
+	left: 340px;
+}
+#two {
+	position: absolute;
+	top: 110px;
+	left: 410px;
+}
+#three {
+	position: absolute;
+	top: 225px;
+	left: 440px;
+}
+#four {
+	position: absolute;
+	top: 320px;
+	left: 410px;
+}
+#five {
+	position: absolute;
+	top: 40px;
+	left: 340px;
+}
+#six {
+	position: absolute;
+	top: 440px;
+	left: 240px;
+}
+#seven {
+	position: absolute;
+	top: 40px;
+	left: 340px;
+}
+#eight {
+	position: absolute;
+	top: 40px;
+	left: 340px;
+}
+#nine {
+	position: absolute;
+	top: 225px;
+	left: 40px;
+}
+#ten {
+	position: absolute;
+	top: 40px;
+	left: 340px;
+}
+#eleven {
+	position: absolute;
+	top: 40px;
+	left: 340px;
+}
+#twelve {
+	position: absolute;
+	top: 10px;
+	left: 240px;
 }
