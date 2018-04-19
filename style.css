@@ -3,7 +3,19 @@ body {
 }
 #digital {
 	border: 10px solid #000;
+	background: lightgreen;
 	width: 25%;
+	margin: 10px auto; 
+	font-size: 30px;
+	color: blue;
+}
+#indent {
+	margin: 50px; 
+}
+#mech {
+	border: 5px solid #000;
+	width: 500px;
+	height: 500px;
 	margin: 10px auto; 
 	font-size: 30px;
 }

@@ -9,24 +9,24 @@ $(document).ready(function() {
 		var second = time.getSeconds();
 				if (month > 9) {
 					month_0 = month;
-				} else 	          {
+				} else 	     {
 					month_0 = '0' + month;
 				}
-					if (day > 9) {
+				if (day > 9) {
 							day_0 = day;
-					} else 	          {
+				} else 	     {
 							day_0 = '0' + day;
-					}
-						if (minute > 9) {
+				}
+				if (minute > 9) {
 							minute_0 = minute;
-						} else 	          {
+				} else 	        {
 							minute_0 = '0' + minute;
-						}
-							if (second > 9) {
+				}
+				if (second > 9) {
 								second_0 = second;
-							} else 	          {
+				} else 	        {
 								second_0 = '0' + second;
-							}
+				}
 				var date = year + '.' + month_0 + '.' + day_0 + ' ' + hour + ':' + minute_0 + ':' + second_0;
 		$('#digital').text(date);
 	}, 1000);
