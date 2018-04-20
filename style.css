@@ -62,7 +62,7 @@ body {
 #two {
 	position: absolute;
 	top: 110px;
-	left: 410px;
+	left: 435px;
 }
 #three {
 	position: absolute;
@@ -76,7 +76,7 @@ body {
 }
 #five {
 	position: absolute;
-	top: 40px;
+	top: 400px;
 	left: 340px;
 }
 #six {
@@ -86,13 +86,13 @@ body {
 }
 #seven {
 	position: absolute;
-	top: 40px;
-	left: 340px;
+	top: 400px;
+	left: 140px;
 }
 #eight {
 	position: absolute;
-	top: 40px;
-	left: 340px;
+	top: 325px;
+	left: 70px;
 }
 #nine {
 	position: absolute;
@@ -101,13 +101,13 @@ body {
 }
 #ten {
 	position: absolute;
-	top: 40px;
-	left: 340px;
+	top: 120px;
+	left: 60px;
 }
 #eleven {
 	position: absolute;
 	top: 40px;
-	left: 340px;
+	left: 140px;
 }
 #twelve {
 	position: absolute;
