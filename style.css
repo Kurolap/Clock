@@ -40,9 +40,9 @@ body {
 	transform: rotate(0deg);
 }
 #invisible0 {
-	background: green;
+	background: white;
 	width: 10px;
-	height: 60px;
+	height: 50px;
 }
 #visible {
 	background: red;	
@@ -51,8 +51,8 @@ body {
 }
 #invisible {
 	width: 10px;
-	height: 240px;
-	background: blue;
+	height: 230px;
+	background: white;
 }
 #one {
 	position: absolute;
@@ -114,3 +114,50 @@ body {
 	top: 10px;
 	left: 240px;
 }
+#arrow_m {
+	background: yellow;
+	width: 10px;
+	height: 480px;
+	position: absolute;
+	top: 0px;
+	left: 245px;
+	transform: rotate(0deg);
+}
+#m_invisible0 {
+	background: white;
+	width: 10px;
+	height: 60px;
+}
+#m_visible {
+	background: blue;	
+	width: 10px;
+	height: 190px;
+}
+#m_invisible {
+	width: 10px;
+	height: 240px;
+	background: white;
+}
+#arrow_h {
+	background: orange;
+	width: 10px;
+	height: 500px;
+	position: absolute;
+	top: 0px;
+	left: 245px;
+	transform: rotate(0deg);
+}
+#h_invisible0 {
+	background: white;
+	width: 10px;
+	height: 60px;
+}
+#h_visible {
+	background: green;	
+	width: 10px;
+	height: 190px;
+}
+#h_invisible {
+	width: 10px;
+	height: 250px;
+	background: white;

@@ -35,7 +35,14 @@ $(document).ready(function() {
 		$('#arrow').css({
 		'transform': 'rotate(' + second*6 + 'deg)'
 		});		
+		$('#arrow_m').css({
+		'transform': 'rotate(' + minute*6 + 'deg)'
+		});		
+		$('#arrow_h').css({
+		'transform': 'rotate(' + hour*30 + 'deg)'
+		});		
 	}, 1000);
-});
+	});	
+
 
 
